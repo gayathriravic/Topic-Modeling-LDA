@@ -11,6 +11,6 @@ Words are lemmatized — words in third person are changed to first person a
 Words are stemmed — words are reduced to their root form.
 ```
 
-Created tf-idf model object using models
-Created bag of words model object
+Created tf-idf model object using models,
+Created bag of words model object,
 For each document we create a dictionary reporting how many words and how many times those words appear using doc2bow
